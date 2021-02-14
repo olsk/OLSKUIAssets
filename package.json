@@ -1,4 +1,5 @@
 {
   "name": "OLSKUIAssets",
-  "main": "main.js"
+  "main": "main.js",
+  "browser": "browser.js"
 }
