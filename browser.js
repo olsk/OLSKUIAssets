@@ -4,6 +4,8 @@ import _OLSKSharedApropos from './_OLSKSharedApropos.svg';
 import _OLSKSharedBack from './_OLSKSharedBack.svg';
 import _OLSKSharedClone from './_OLSKSharedClone.svg';
 import _OLSKSharedCloud from './_OLSKSharedCloud.svg';
+import _OLSKSharedCloudError from './_OLSKSharedCloudError.svg';
+import _OLSKSharedCloudOffline from './_OLSKSharedCloudOffline.svg';
 import _OLSKSharedCreate from './_OLSKSharedCreate.svg';
 import _OLSKSharedDiscard from './_OLSKSharedDiscard.svg';
 import _OLSKSharedEdit from './_OLSKSharedEdit.svg';
@@ -42,6 +44,8 @@ export default {
 	_OLSKSharedBack,
 	_OLSKSharedClone,
 	_OLSKSharedCloud,
+	_OLSKSharedCloudError,
+	_OLSKSharedCloudOffline,
 	_OLSKSharedCreate,
 	_OLSKSharedDiscard,
 	_OLSKSharedEdit,
