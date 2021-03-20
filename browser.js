@@ -8,6 +8,7 @@ import _OLSKSharedCloudError from './_OLSKSharedCloudError.svg';
 import _OLSKSharedCloudOffline from './_OLSKSharedCloudOffline.svg';
 import _OLSKSharedCreate from './_OLSKSharedCreate.svg';
 import _OLSKSharedDiscard from './_OLSKSharedDiscard.svg';
+import _OLSKSharedDismiss from './_OLSKSharedDismiss.svg';
 import _OLSKSharedEdit from './_OLSKSharedEdit.svg';
 import _OLSKSharedFeatureAccessible from './_OLSKSharedFeatureAccessible.svg';
 import _OLSKSharedFeatureBookmarklet from './_OLSKSharedFeatureBookmarklet.svg';
@@ -48,6 +49,7 @@ export default {
 	_OLSKSharedCloudOffline,
 	_OLSKSharedCreate,
 	_OLSKSharedDiscard,
+	_OLSKSharedDismiss,
 	_OLSKSharedEdit,
 	_OLSKSharedFeatureAccessible,
 	_OLSKSharedFeatureBookmarklet,
