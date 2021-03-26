@@ -10,23 +10,6 @@ import _OLSKSharedCreate from './_OLSKSharedCreate.svg';
 import _OLSKSharedDiscard from './_OLSKSharedDiscard.svg';
 import _OLSKSharedDismiss from './_OLSKSharedDismiss.svg';
 import _OLSKSharedEdit from './_OLSKSharedEdit.svg';
-import _OLSKSharedFeatureAccessible from './_OLSKSharedFeatureAccessible.svg';
-import _OLSKSharedFeatureBookmarklet from './_OLSKSharedFeatureBookmarklet.svg';
-import _OLSKSharedFeatureBrackets from './_OLSKSharedFeatureBrackets.svg';
-import _OLSKSharedFeatureCode from './_OLSKSharedFeatureCode.svg';
-import _OLSKSharedFeatureEverywhere from './_OLSKSharedFeatureEverywhere.svg';
-import _OLSKSharedFeatureExtension from './_OLSKSharedFeatureExtension.svg';
-import _OLSKSharedFeatureIO from './_OLSKSharedFeatureIO.svg';
-import _OLSKSharedFeatureKeyboard from './_OLSKSharedFeatureKeyboard.svg';
-import _OLSKSharedFeatureOffline from './_OLSKSharedFeatureOffline.svg';
-import _OLSKSharedFeaturePrivate from './_OLSKSharedFeaturePrivate.svg';
-import _OLSKSharedFeaturePublish from './_OLSKSharedFeaturePublish.svg';
-import _OLSKSharedFeatureRecord from './_OLSKSharedFeatureRecord.svg';
-import _OLSKSharedFeatureSync from './_OLSKSharedFeatureSync.svg';
-import _OLSKSharedFeatureTags from './_OLSKSharedFeatureTags.svg';
-import _OLSKSharedFeatureTTS from './_OLSKSharedFeatureTTS.svg';
-import _OLSKSharedFeatureURL from './_OLSKSharedFeatureURL.svg';
-import _OLSKSharedFeatureZeroData from './_OLSKSharedFeatureZeroData.svg';
 import _OLSKSharediOSA2HS from './_OLSKSharediOSA2HS.svg';
 import _OLSKSharediOSShare from './_OLSKSharediOSShare.svg';
 import _OLSKSharedLanguage from './_OLSKSharedLanguage.svg';
@@ -51,23 +34,6 @@ export default {
 	_OLSKSharedDiscard,
 	_OLSKSharedDismiss,
 	_OLSKSharedEdit,
-	_OLSKSharedFeatureAccessible,
-	_OLSKSharedFeatureBookmarklet,
-	_OLSKSharedFeatureBrackets,
-	_OLSKSharedFeatureCode,
-	_OLSKSharedFeatureEverywhere,
-	_OLSKSharedFeatureExtension,
-	_OLSKSharedFeatureIO,
-	_OLSKSharedFeatureKeyboard,
-	_OLSKSharedFeatureOffline,
-	_OLSKSharedFeaturePrivate,
-	_OLSKSharedFeaturePublish,
-	_OLSKSharedFeatureRecord,
-	_OLSKSharedFeatureSync,
-	_OLSKSharedFeatureTags,
-	_OLSKSharedFeatureTTS,
-	_OLSKSharedFeatureURL,
-	_OLSKSharedFeatureZeroData,
 	_OLSKSharediOSA2HS,
 	_OLSKSharediOSShare,
 	_OLSKSharedLanguage,
