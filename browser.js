@@ -1,6 +1,7 @@
 import _OLSKInputClear from './_OLSKInputClear.svg';
 import _OLSKSharedAndroidMore from './_OLSKSharedAndroidMore.svg';
 import _OLSKSharedApropos from './_OLSKSharedApropos.svg';
+import _OLSKSharedArchive from './_OLSKSharedArchive.svg';
 import _OLSKSharedBack from './_OLSKSharedBack.svg';
 import _OLSKSharedClone from './_OLSKSharedClone.svg';
 import _OLSKSharedCloud from './_OLSKSharedCloud.svg';
@@ -19,12 +20,14 @@ import _OLSKSharedReload from './_OLSKSharedReload.svg';
 import _OLSKSharedStorageDisconnect from './_OLSKSharedStorageDisconnect.svg';
 import _OLSKSharedSyncStart from './_OLSKSharedSyncStart.svg';
 import _OLSKSharedSyncStop from './_OLSKSharedSyncStop.svg';
+import _OLSKSharedUnarchive from './_OLSKSharedUnarchive.svg';
 
 export default {
 
 	_OLSKInputClear,
 	_OLSKSharedAndroidMore,
 	_OLSKSharedApropos,
+	_OLSKSharedArchive,
 	_OLSKSharedBack,
 	_OLSKSharedClone,
 	_OLSKSharedCloud,
@@ -43,5 +46,6 @@ export default {
 	_OLSKSharedStorageDisconnect,
 	_OLSKSharedSyncStart,
 	_OLSKSharedSyncStop,
+	_OLSKSharedUnarchive,
 
 };
