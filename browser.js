@@ -17,6 +17,8 @@ import _OLSKSharedLanguage from './_OLSKSharedLanguage.svg';
 import _OLSKSharedLauncher from './_OLSKSharedLauncher.svg';
 import _OLSKSharedLock from './_OLSKSharedLock.svg';
 import _OLSKSharedReload from './_OLSKSharedReload.svg';
+import _OLSKSharedStash from './_OLSKSharedStash.svg';
+import _OLSKSharedStashSelected from './_OLSKSharedStashSelected.svg';
 import _OLSKSharedStorageDisconnect from './_OLSKSharedStorageDisconnect.svg';
 import _OLSKSharedSyncStart from './_OLSKSharedSyncStart.svg';
 import _OLSKSharedSyncStop from './_OLSKSharedSyncStop.svg';
@@ -43,6 +45,8 @@ export default {
 	_OLSKSharedLauncher,
 	_OLSKSharedLock,
 	_OLSKSharedReload,
+	_OLSKSharedStash,
+	_OLSKSharedStashSelected,
 	_OLSKSharedStorageDisconnect,
 	_OLSKSharedSyncStart,
 	_OLSKSharedSyncStop,
