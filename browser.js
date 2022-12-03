@@ -13,6 +13,7 @@ import _OLSKSharedDismiss from './_OLSKSharedDismiss.svg';
 import _OLSKSharedEdit from './_OLSKSharedEdit.svg';
 import _OLSKSharediOSA2HS from './_OLSKSharediOSA2HS.svg';
 import _OLSKSharediOSShare from './_OLSKSharediOSShare.svg';
+import _OLSKSharedIconPlaceholder from './_OLSKSharedIconPlaceholder.svg';
 import _OLSKSharedLanguage from './_OLSKSharedLanguage.svg';
 import _OLSKSharedLauncher from './_OLSKSharedLauncher.svg';
 import _OLSKSharedLock from './_OLSKSharedLock.svg';
@@ -41,6 +42,7 @@ export default {
 	_OLSKSharedEdit,
 	_OLSKSharediOSA2HS,
 	_OLSKSharediOSShare,
+	_OLSKSharedIconPlaceholder,
 	_OLSKSharedLanguage,
 	_OLSKSharedLauncher,
 	_OLSKSharedLock,
